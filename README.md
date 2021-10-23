@@ -6,8 +6,8 @@ Simple api-APP
 To run this project, install it localy using npm:
 
 ```shell
-$ git clone https://github.com/SergeyBersenev98/SergeyBersenev98.github.io
-$ cd ./SergeyBersenev98.github.io
+$ git clone https://github.com/SergeyBersenev98/api-library.git
+$ cd ./api-library
 $ npm install
 $ npm start
 ```
